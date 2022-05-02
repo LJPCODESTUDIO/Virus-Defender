@@ -14,6 +14,8 @@ A simple boss rush game created in Turbowarp initially as a Computer Science pro
 
 ## To-Do
 
+- Completely rework game
+
 - Optimize/Rework Worm boss
 
 - Optimize/Rework Glarey boss
