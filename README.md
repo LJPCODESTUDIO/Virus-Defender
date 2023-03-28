@@ -24,7 +24,7 @@ A simple boss rush game created in Turbowarp initially as a Computer Science pro
 
 ## Acknowledgements
 
-- Music - Jadin Lebirk
+- Music - Alice Lebirk
 - [Sound Effects - Labchirp](http://labbed.net/software/labchirp/)
 - [Engine - Turbowarp](https://turbowarp.org/)
 
