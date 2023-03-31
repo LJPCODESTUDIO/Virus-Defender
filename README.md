@@ -7,8 +7,8 @@ A simple boss rush game created in Turbowarp initially as a Computer Science pro
 ## Features
 
 - 5 different bosses with varying difficulty and gimmicks for each
-- Awesome music made especially for this game
-- Difficult gameplay
+- Awesome music made for this game
+- **VERY** Difficult gameplay
 - Educational facts regarding networking
 
 
